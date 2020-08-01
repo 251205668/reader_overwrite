@@ -1,0 +1,7 @@
+@font-face{font-family:'ZoomlaJianmingLi-A047';/*逐浪新隶体*/
+  src: url('https://code.z01.com/font/ZoomlaJianmingLi-A047.eot?#iefix'); /* IE9 */
+  src: url('https://code.z01.com/font/ZoomlaJianmingLi-A047.eot?#iefix') format("embedded-opentype"), /* IE6-IE8 */
+  url('https://code.z01.com/font/ZoomlaJianmingLi-A047.woff') format("woff"), /* chrome、firefox */
+  url('https://code.z01.com/font/ZoomlaJianmingLi-A047.ttf') format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+  url('https://code.z01.com/font/ZoomlaJianmingLi-A047.svg#ZoomlaJianmingLi-A047') format("svg"); /* iOS 4.1- */
+  font-style: normal; font-weight: normal;}
